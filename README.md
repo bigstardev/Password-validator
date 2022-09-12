@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Usage
 
-Use the <PasswordValidator> components:
+Use the PasswordValidator components:
 
 ### Available Props
 
